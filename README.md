@@ -38,7 +38,7 @@ on Ubuntu
 
 1. Install Apache HTTP Server
 ```
-apt install apache2 -y
+apt install apache2 php8.3 php8.3-sqlite3 -y
 ```
 
 2. Go to `/var/www/html` directory
