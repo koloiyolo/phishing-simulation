@@ -19,7 +19,7 @@ Results page:
 1. Clone this repository
 
 ```
-git clone repo
+git clone https://github.com/koloiyolo/phishing-simulation.git
 ```
 2. Set environment variables using `vim` or `nano`
 
@@ -49,7 +49,7 @@ cd /var/www/html
 3. Clone this repository
 
 ```
-git clone repo
+git clone https://github.com/koloiyolo/phishing-simulation.git
 ```
 4. Set environment variables using `vim` or `nano`
 
