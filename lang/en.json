@@ -1,0 +1,19 @@
+{
+    "index_title" : "Congratulations",
+    "index_content": "You managed to fall for simulated Phishing attack. Your IP address is: ",
+    "index_footer": "Please contact your IT Administrator.",
+
+    "result_title": "Results",
+    "result_t1_title": "Visits",
+    "result_t1_1": "ID",
+    "result_t1_2": "Date",
+    "result_t1_3": "IP Address",
+    "result_t1_4": "DNS Name",
+    "result_t2_title": "Unique Visitors",
+    "result_t2_1": "ID",
+    "result_t2_2": "IP Address",
+    "result_t2_3": "DNS Name",
+    "result_summary1": "Total visits: ",
+    "result_summary2": "Total unique visitors: "
+}
+

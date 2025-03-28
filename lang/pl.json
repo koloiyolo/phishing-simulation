@@ -1,0 +1,18 @@
+{
+    "index_title" : "Gratulacje.",
+    "index_content": "Padłeś/aś ofiarą symulowanego ataku typu Phishing. Twój adres IP to: ",
+    "index_footer": "Proszę skontaktować się z Administratorem Systemów informatycznych.",
+
+    "result_title": "Wyniki",
+    "result_t1_title": "Odwiedziny",
+    "result_t1_1": "ID",
+    "result_t1_2": "Data",
+    "result_t1_3": "Adres IP",
+    "result_t1_4": "Nazwa DNS",
+    "result_t2_title": "Unikatowi goście",
+    "result_t2_1": "ID",
+    "result_t2_2": "Adres IP",
+    "result_t2_3": "Nazwa DNS",
+    "result_summary1": "Łączna ilość odwiedzin: ",
+    "result_summary2": "Unikatowi goście: "
+}
